@@ -2,7 +2,6 @@
 Project Overview
 This project is a summary of the back-end trimester, covering authentication, NodeJS, MongoDB, Redis, pagination, and background processing. The objective is to build a simple platform for uploading and viewing files.
 
-
 Project Timeline
 Start Date: Aug 1, 2024, 6:00 AM
 End Date: Aug 8, 2024, 6:00 AM
@@ -38,7 +37,7 @@ Linting: ESLint
 Installation and Setup
 Clone the Repository
 
-git clone https://github.com/joeyzazalin/alx-files_manager.git
+git clone https://github.com/lemyjay/alx-files_manager.git
 Navigate to the Project Directory
 
 cd alx-files_manager
